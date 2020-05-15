@@ -1,0 +1,9 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-01406	We have the opportunity to move away from the gloomy nihilism that characterizes the reign of our deeply patriarchal, dominator culture.	sadness	0: no sadness can be inferred
+2018-En-00716	@badpostyoongi I know for a fact they'll either ignore the fact tiff isn't or change Cindy's background	sadness	0: no sadness can be inferred
+2018-En-02394	@LeahRemini  A 'religion' that pushes people to suicide, and punishes you for doing the right thing?? #heartbreaking	sadness	2: moderate amount of sadness can be inferred
+2018-En-00825	You could have over a hundred million followers and still not a genuine person who understands you or wants to #cantshakethis #sadness	sadness	3: high amount of sadness can be inferred
+2018-En-03817	@elebelfiore Isn't it always about control and mistrust?	sadness	0: no sadness can be inferred
+2018-En-03935	Went to bed a 1:30, fell asleep after, my niece started crying at 4. I'm dying... 😧	sadness	2: moderate amount of sadness can be inferred
+2018-En-00667	@bennymcnugget Very sad and upset and idk :/	sadness	3: high amount of sadness can be inferred
+2018-En-03750	and i shouldve cut them off the moment i started hurting myself over them :o	sadness	3: high amount of sadness can be inferred
