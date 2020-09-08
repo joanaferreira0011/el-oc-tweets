@@ -1,3 +1,0 @@
-Should training and metrics be done for each sentiment?
-
-0.39 vs 0.31 accuracy
