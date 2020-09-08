@@ -1,6 +1,0 @@
-Accuracy per model
-type, naive-bayes, svm, logistic regression, perceptron, decision tree, random forest
-BoW + lemm + no lower + ,  0.175,0.46,0.37,0.33, 0.40,0.50
-tf-idf, 0.23, 0.46,0.46, 0.46, 0.45, 0.46
-tf-idf + user + emoji, 0.3125, 0.475, 0.475, 0.2125, 0.47, 0.4875
-
